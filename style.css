@@ -1,0 +1,72 @@
+
+.box{
+    display : flex;
+    width: 70%;
+    float:left;
+
+
+    
+}
+
+.box .t{
+    padding : 0px 8px;
+}
+
+.box2{
+    display : flex;
+    float:right;
+
+}
+
+.box2 .t2{
+    padding : 0px 5px; 
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#image{
+    width: 87px;
+    height: 55px;
+    
+}
+
+.container{
+    position: absolute;
+    left:30%;
+    top:30%;
+    width: 50%;
+    
+}
+
+.container #image3{
+
+    margin: 0px 80px;
+
+}
+
+#image4{
+    position: relative;
+    bottom:5px;
+    right:50px;
+}
+
+.box5{
+    position: relative;
+    left:15px;
+    bottom:110px;
+    width:70%;
+
+    
+}
+.box6{
+    position: absolute;
+    right:0;
+    display:inline-block;
+  
+
+}
+
+
