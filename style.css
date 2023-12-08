@@ -36,7 +36,7 @@ p{
 .container{
     position: absolute;
     left:30%;
-    top:30%;
+    top:24%;
     width: 50%;
     
 }
@@ -51,6 +51,16 @@ p{
     position: relative;
     bottom:5px;
     right:50px;
+}
+
+.box3{
+    position:relative;
+    right:100px;
+}
+
+#image3{
+    position: relative;
+    left:50px;
 }
 
 .box5{
